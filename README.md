@@ -1,6 +1,6 @@
 # Rust-exercism
 
-Please note that the test cases are not my own and are taken from [exercism.ord](exercism.org). If you want to learn a new language by coding, head over to their website and make an account! :)
+Please note that the test cases are not my own and are taken from [Exercism.org](exercism.org). If you want to learn a new language by coding, head over to their website and make an account! :)
 
 This repository is just for me to keep track of my progression in learning Rust.
 
