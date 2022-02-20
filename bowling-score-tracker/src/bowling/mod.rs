@@ -33,7 +33,7 @@ impl BowlingGame {
         } else if pins <= 10 {
             let length = self.frames.len();
             if length <= 12 {
-                let mut latest_frame = self.frames.last_mut();
+                let latest_frame = self.frames.last_mut();
 
                 match latest_frame {
                     Some(frame) => match frame.shot_counter {
