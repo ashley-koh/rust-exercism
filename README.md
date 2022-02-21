@@ -6,8 +6,12 @@ This repository is just for me to keep track of my progression in learning Rust.
 
 ## Completed Exercises
 
-1. [Bowling](https://github.com/ashley-koh/rust-exercism/tree/main/bowling-score-tracker)
-2. [Sublist](https://github.com/ashley-koh/rust-exercism/tree/main/sublist)
+1. [Anagram](https://github.com/ashley-koh/rust-exercism/tree/main/anagram)
+2. [Bowling](https://github.com/ashley-koh/rust-exercism/tree/main/bowling-score-tracker)
+3. [Clock](https://github.com/ashley-koh/rust-exercism/tree/main/clock)
+4. [Gigasecond](https://github.com/ashley-koh/rust-exercism/tree/main/gigasecond)
+5. [Sublist](https://github.com/ashley-koh/rust-exercism/tree/main/sublist)
+
 
 ## Installation
 
